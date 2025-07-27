@@ -12,7 +12,7 @@
 #define pi 3.14159265359
 #define WIDTH 1080
 #define HEIGHT 800
-#define PARTICLE_NR 12
+#define PARTICLE_NR 50
 GLFWwindow* window;
 
 
